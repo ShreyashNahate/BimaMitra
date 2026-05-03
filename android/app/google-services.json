@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723603614375",
+    "project_id": "bimamitra-108fc",
+    "storage_bucket": "bimamitra-108fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723603614375:android:f76df2c30969f360690982",
+        "android_client_info": {
+          "package_name": "com.example.bimamitra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAJjcKvPRXJfWk6LTtZ87p7ugUMGh6Ppw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
